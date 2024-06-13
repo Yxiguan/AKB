@@ -1,12 +1,11 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
+    "name": "UI4.0-Stable-KernelSU-GTNeoSeries",
     "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
     "branch": "T-Backup",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
-    "km": "v4.0"
     
   },
   "withKernelSU": true,
@@ -47,12 +46,11 @@
 },
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
+    "name": "UI4.0-Updated-KernelSU-GTNeoSeries-Kernel",
     "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
     "branch": "T",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
-    "km": "v4.0"
   },
   "withKernelSU": true,
   "toolchains": [
