@@ -8,7 +8,7 @@
     "defconfig": "cupida_defconfig",
     "km": "v4.0"
   },
-  "withKernelSU": true,
+  "withKernelSU": false,
   "toolchains": [
   {
     "repo": "https://github.com/kdrag0n/proton-clang",
