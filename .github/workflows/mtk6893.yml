@@ -201,7 +201,7 @@ jobs:
             rm -rf "./KernelSU"
           fi
           if [ -d "./drivers/kernelsu" ]; then
-            rm -rf "./drivers/kernelsu"
+            #rm -rf "./drivers/kernelsu"
           fi
 
 
