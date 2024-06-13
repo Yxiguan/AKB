@@ -46,7 +46,7 @@ jobs:
       KERNEL_REPO: ${{ matrix.repos.kernelSource.repo }}
       KERNEL_BRANCH: ${{ matrix.repos.kernelSource.branch }}
       KERNEL_DEVICE: ${{ matrix.repos.kernelSource.device }}
-      KERNEL_MODIFIER: ${{ matrix.repos.kernelsource.km }}
+      KERNEL_MODIFIER: ${{ matrix.repos.kernelSource.km }}
 
       DEFCONFIG_NAME: ${{ matrix.repos.kernelSource.defconfig }}
 
